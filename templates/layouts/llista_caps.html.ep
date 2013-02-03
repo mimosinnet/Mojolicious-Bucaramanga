@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title><%= title %></title>
+	<script language="javascript" type="text/javascript" src="/jvsc/google_analytics.js" defer></script>
+
+	<link href="/css/llista_caps.css" media="screen" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<a href="/hist01"><img src="/img/histories/01.jpg" alt="0.- Introducción" height="300px" /></a>
+	<a href="/hist02"><img src="/img/histories/02.jpg" alt="1.- Vuelo" i			height="300px" /></a>
+	<a href="/hist03"><img src="/img/histories/03.jpg" alt="2.- Llegada" 			height="300px" /></a>
+	<a href="/hist04"><img src="/img/histories/04.jpg" alt="3.- Jet-Lag" 			height="300px" /></a>
+	<a href="/hist05"><img src="/img/histories/05.jpg" alt="4.- Temblor" 			height="300px" /></a>
+	<a href="/">			<img src="/img/histories/00.jpg" alt="Inicio" 					height="300px" /></a>
+</body>
+
+</html>
+
+<!-- 
+ vim: tabstop=2
+-->
+

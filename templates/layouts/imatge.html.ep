@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head><title><%= title %></title>
+	<script language="javascript" type="text/javascript" src="/jvsc/google_analytics.js" defer></script>
+	<link href="/css/imatge.css" media="screen" rel="stylesheet" type="text/css" />
+</head>
+<body>
+				<%= link_to $seguent => begin %><%= content %><% end %>
+</body>
+</html>
+
+<!-- vim: tabstop=4
+--!>
+

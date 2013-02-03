@@ -1,0 +1,34 @@
+[Wed Oct 17 21:30:22 2012] [info] Hypnotoad server 31491 started for "/home/webs/Bucaramanga/script/my_mojolicious_app".
+[Wed Oct 17 21:30:22 2012] [info] Listening at "http://*:8080".
+[Wed Oct 17 21:30:22 2012] [info] Creating process id file "/home/webs/Bucaramanga/script/hypnotoad.pid".
+[Wed Oct 24 22:04:58 2012] [info] Starting zero downtime software upgrade.
+[Wed Oct 24 22:04:58 2012] [info] Hypnotoad server 3863 started for "/home/webs/Bucaramanga/script/my_mojolicious_app".
+[Wed Oct 24 22:04:58 2012] [info] Listening at "http://*:8080".
+[Wed Oct 24 22:04:58 2012] [info] Upgrade successful, stopping 31491.
+[Wed Oct 24 22:04:59 2012] [info] Creating process id file "/home/webs/Bucaramanga/script/hypnotoad.pid".
+[Mon Nov 12 03:07:47 2012] [info] Hypnotoad server 23969 started for "/home/webs/Bucaramanga/script/my_mojolicious_app".
+[Mon Nov 12 03:07:47 2012] [info] Listening at "http://*:8080".
+[Mon Nov 12 22:07:50 2012] [info] Hypnotoad server 25731 started for "/home/webs/Bucaramanga/script/my_mojolicious_app".
+[Mon Nov 12 22:11:06 2012] [info] Hypnotoad server 25766 started for "/home/webs/Bucaramanga/script/my_mojolicious_app".
+[Tue Nov 13 00:47:32 2012] [info] Hypnotoad server 1693 started for "/home/webs/Bucaramanga/script/my_mojolicious_app".
+[Tue Nov 13 00:59:11 2012] [info] Hypnotoad server 1743 started for "/home/webs/Bucaramanga/script/my_mojolicious_app".
+[Tue Nov 13 00:59:11 2012] [info] Listening at "http://*:8080".
+[Tue Nov 13 00:59:11 2012] [info] Creating process id file "/home/webs/Bucaramanga/script/hypnotoad.pid".
+[Fri Nov 23 17:07:09 2012] [info] Hypnotoad server 11231 started for "/home/webs/Bucaramanga/script/my_mojolicious_app".
+[Fri Nov 23 17:07:09 2012] [info] Listening at "http://*:8080".
+[Sun Nov 25 13:05:23 2012] [info] Hypnotoad server 31648 started for "/home/webs/Bucaramanga/script/my_mojolicious_app".
+[Sun Nov 25 13:16:56 2012] [info] Hypnotoad server 31727 started for "/home/webs/Bucaramanga/script/my_mojolicious_app".
+[Sun Nov 25 13:43:09 2012] [info] Hypnotoad server 3355 started for "/home/webs/Bucaramanga/script/my_mojolicious_app".
+[Sun Nov 25 13:43:09 2012] [info] Listening at "http://*:8080".
+[Sun Nov 25 13:43:09 2012] [info] Creating process id file "/home/webs/Bucaramanga/script/hypnotoad.pid".
+[Sun Nov 25 13:46:24 2012] [info] Starting zero downtime software upgrade.
+[Sun Nov 25 13:46:24 2012] [info] Hypnotoad server 3377 started for "/home/webs/Bucaramanga/script/my_mojolicious_app".
+[Sun Nov 25 13:46:24 2012] [info] Listening at "http://*:8080".
+[Sun Nov 25 13:46:24 2012] [info] Upgrade successful, stopping 3355.
+[Sun Nov 25 13:46:25 2012] [info] Creating process id file "/home/webs/Bucaramanga/script/hypnotoad.pid".
+[Sun Nov 25 13:47:33 2012] [info] Hypnotoad server 3385 started for "/home/webs/Bucaramanga/script/my_mojolicious_app".
+[Sun Nov 25 13:47:33 2012] [info] Listening at "http://*:8080".
+[Sun Nov 25 13:47:33 2012] [info] Creating process id file "/home/webs/Bucaramanga/script/hypnotoad.pid".
+[Tue Dec 25 07:42:20 2012] [info] Hypnotoad server 3025 started for "/home/webs/Bucaramanga/script/my_mojolicious_app".
+[Tue Dec 25 07:42:20 2012] [info] Listening at "http://*:8080".
+[Tue Dec 25 07:42:20 2012] [info] Creating process id file "/home/webs/Bucaramanga/script/hypnotoad.pid".

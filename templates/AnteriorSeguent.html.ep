@@ -1,0 +1,12 @@
+<div id="seguent">
+	<table border="0", align="center">
+		<tr>
+			<td align="center"><%= link_to $anterior => begin %>Anterior<% end %></td>
+			<td align="center"><%= link_to '/' => begin %>Inici<% end %></td>
+			<td align="center"><%= link_to $seguent => begin %>Següent<% end %></td>
+		</tr>
+	</table>
+</div><!-- seguent -->
+
+<!-- vim: tabstop=4
+-->

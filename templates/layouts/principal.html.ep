@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title><%= title %></title>
+	<script language="javascript" type="text/javascript" src="/jvsc/google_analytics.js" defer></script>
+	<link href="/css/principal.css" media="screen" rel="stylesheet" type="text/css" />
+</head>
+<body>
+		<div id="left">
+						<img src="/img/home/heading.png" alt="Bucaramanga" title="Bucara/manga: un diario de campo en viñetas es un cómic autobiográfico escrito por Nagore García y dibujado por Jordi Roca sobre una experiencia de tres meses en Colombia." width="115%"/>
+						<!-- Info -->
+						<p><img src="/img/home/info.jpg" alt="info"  width="20%" align="left" />Bucara/manga: un diario de campo en viñetas es un cómic autobiográfico escrito por Nagore García y dibujado por Jordi Roca sobre una experiencia de tres meses en Colombia.</p><br />
+						<!-- Links -->
+						<p><img src="/img/home/links.jpg" alt="info" width="40%" align="left" /><a href="http://generatech.org/">generaTech</a>, <a href="http://generatech.org/ningunlugar">Ningun Lugar</a>, <a href="http://www.gazteaukera.euskadi.net/">gazte aukera</a>, <a href="http://www.funmujer.com/">Mujer y futuro</a>, <a href="http://www.rutapacifica.org.co/">Ruta pacífica</a>, <a href="http://www.colectivomaloka.org/">Colectivo Maloka</a></p><br />
+						<!-- Mojolicious -->
+						<p>Powered by <a href="http://www.perl.org/http://www.perl.org">Perl</a> and <a href="http://mojolicio.us/">Mojolicous</a>, build by <i>mimosinnet</i>.</p><br />
+						<!-- Licence -->
+						<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.es_CO"><img alt="Licencia Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">   "Bucaramanga: un diario de campo en viñetas"</span> por <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Nagore García y Jordi Roca</span> se encuentra bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.es_CO">Licencia Creative Commons Atribución-CompartirIgual 3.0 Unported</a>.</p>
+	</div>
+			<div id="right">
+				<a href="/llista_caps"><img src="/img/home/escriptori1.jpg" alt="Intro" width="75%" /></a>
+</div>
+
+</body>
+
+
+</html>
+
+<!-- 
+ vim: tabstop=2 filetype=html
+-->
+

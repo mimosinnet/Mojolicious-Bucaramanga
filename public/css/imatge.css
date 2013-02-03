@@ -1,0 +1,16 @@
+html {
+	background		: white;
+}
+
+body {
+	margin			: 0.1% 0.1% 0.1% 0.1%;
+	background		: black;
+
+}
+
+img {
+	width			: 99%;
+	margin			: 0.5% 0.5% 0.5% 0.5%;
+}
+
+/* vim: tabstop=4

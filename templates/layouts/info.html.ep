@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><title><%= title %></title>
+	<link href="/css/principal.css" media="screen" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+				<p>Bucara/manga: un diario de campo en viñetas es un cómic autobiográfico sobre una experiencia de tres meses en Colombia.</p>
+</body>
+
+
+</html>
+
+<!-- 
+ vim: tabstop=2
+-->
+

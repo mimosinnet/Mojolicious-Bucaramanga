@@ -1,4 +1,5 @@
-Mojolicious-Bucaramanga
-=======================
+Simple web to show images. Just beginning.
 
-Display images as if it was a comic
+The images are not included. You can see the final product in
+
+http://bucaramenga.ningunlugar.org

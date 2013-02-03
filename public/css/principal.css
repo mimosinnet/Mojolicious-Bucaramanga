@@ -1,0 +1,53 @@
+html, body {
+	height		: 100%;
+	background	: black;
+}
+
+body {
+  margin	: 0% 0% 0% 0%;
+  padding	: 0% 0% 0% 1%;
+	border	: thick double white;
+	display	: table;
+}
+
+p {
+	color		: white;
+	font-family	: cursive;
+}
+
+a:link {
+	color		: white;
+}
+
+a:visited {
+	color		: gray;
+}
+
+a:hover {
+	color		: #6B0000;
+}
+
+a:active {
+	color		: yellow;
+}
+
+img {
+	margin		: 0 0 2px 0;
+}
+
+#left {
+	float		: left;
+	width		: 30%;
+	height	: 100%;
+	display	: table;
+}
+
+#right {
+	width				: 70%;
+	margin-left	: 40%;
+	margin-top	: 5%;
+}
+
+/* 
+ vim: tabstop=2 filetype=css
+ */

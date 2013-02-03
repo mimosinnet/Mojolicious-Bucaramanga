@@ -1,0 +1,3 @@
+% layout 'imatge';
+% title 'Bucaramanga';
+%= image $imatge;
